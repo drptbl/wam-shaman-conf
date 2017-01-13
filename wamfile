@@ -1,0 +1,30 @@
+{
+	"wowPath": "/Applications/World of Warcraft",
+	"addons": [
+		"deadly-boss-mods",
+		"dbm-pvp",
+		"details",
+		"world-quest-tracker",
+		"bad-boy",
+		"pawn",
+		"weakauras-2",
+		"worldquestgroupfinder",
+		"prat-3-0",
+		"gladius",
+		"angry-world-quests",
+		"bagnon",
+		"omni-cc",
+		"gtfo",
+		"handynotes",
+		"handynotes_legiontreasures",
+		"tidy-plates",
+		"postal",
+		"saved_instances",
+		"leatrix-plus",
+		"premade-groups-filter",
+		"safequeue",
+		"sarena",
+		"details-target-caller-plugin",
+		"capping-bg-timers"
+	]
+}
