@@ -1,0 +1,1 @@
+# wam-shaman-conf
